@@ -18,6 +18,74 @@ En résumé, Git est un outil puissant et flexible qui facilite la gestion des v
 
 Git est disponible pour Windows, macOS et Linux. Vous pouvez télécharger les installateurs à partir du site officiel de Git : https://git-scm.com/downloads
 
+# Commandes de base
+
+## Initialiser un dépôt
+
+Pour créer un nouveau dépôt Git, utilisez la commande `git init`. Cette commande crée un nouveau sous-répertoire nommé `.git` qui contient tous les fichiers nécessaires au dépôt, ce qui rend le répertoire de travail actuel un dépôt Git.
+
+```bash
+git init
+```
+
+## Cloner un dépôt
+
+Pour créer une copie locale d'un dépôt distant, utilisez la commande `git clone`. Vous devez spécifier l'URL du dépôt distant à cloner.
+
+```bash
+git clone <url>
+```
+
+## Vérifier l'état des fichiers
+
+Pour obtenir des informations sur les fichiers modifiés dans le répertoire de travail, utilisez la commande `git status`.
+
+```bash
+git status
+```
+
+## Suivre les nouveaux fichiers
+
+Pour ajouter un nouveau fichier au suivi, utilisez la commande `git add`.
+
+```bash
+git add <file>
+```
+
+# Commandes de base
+
+## Initialiser un dépôt
+
+Pour créer un nouveau dépôt Git, utilisez la commande `git init`. Cette commande crée un nouveau sous-répertoire nommé `.git` qui contient tous les fichiers nécessaires au dépôt, ce qui rend le répertoire de travail actuel un dépôt Git.
+
+```bash
+git init
+```
+
+## Cloner un dépôt
+
+Pour créer une copie locale d'un dépôt distant, utilisez la commande `git clone`. Vous devez spécifier l'URL du dépôt distant à cloner.
+
+```bash
+git clone <url>
+```
+
+## Vérifier l'état des fichiers
+
+Pour obtenir des informations sur les fichiers modifiés dans le répertoire de travail, utilisez la commande `git status`.
+
+```bash
+git status
+```
+
+## Suivre les nouveaux fichiers
+
+Pour ajouter un nouveau fichier au suivi, utilisez la commande `git add`.
+
+```bash
+git add <file>
+```
+
 # Configuration de Git
 
 Il est possible de spécifier les paramètres de configuration de Git avec la commande git config.
