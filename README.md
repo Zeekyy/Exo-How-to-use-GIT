@@ -17,3 +17,7 @@ En résumé, Git est un outil puissant et flexible qui facilite la gestion des v
 # Installation de Git
 
 Git est disponible pour Windows, macOS et Linux. Vous pouvez télécharger les installateurs à partir du site officiel de Git : https://git-scm.com/downloads
+
+# Configuration de Git
+
+Il est possible de spécifier les paramètres de configuration de Git avec la commande git config.
