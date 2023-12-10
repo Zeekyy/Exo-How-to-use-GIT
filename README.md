@@ -14,3 +14,6 @@ Les principales caractéristiques de Git sont les suivantes :
 
 En résumé, Git est un outil puissant et flexible qui facilite la gestion des versions et la collaboration dans les projets de développement de logiciels.
 
+# Installation de Git
+
+Git est disponible pour Windows, macOS et Linux. Vous pouvez télécharger les installateurs à partir du site officiel de Git : https://git-scm.com/downloads
