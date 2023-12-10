@@ -13,3 +13,4 @@ Les principales caractéristiques de Git sont les suivantes :
 - **Collaboration** : Git facilite la collaboration entre les développeurs en permettant de partager facilement les modifications et de résoudre les conflits lors de la fusion des branches.
 
 En résumé, Git est un outil puissant et flexible qui facilite la gestion des versions et la collaboration dans les projets de développement de logiciels.
+
